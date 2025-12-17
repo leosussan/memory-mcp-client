@@ -6,7 +6,7 @@
     <img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white" />
     <img alt="Svelte 5" src="https://img.shields.io/badge/Svelte-5-FF3E00?logo=svelte&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
-    <img alt="Node >= 18" src="https://img.shields.io/badge/Node-%3E%3D%2018-339933?logo=node.js&logoColor=white" />
+    <img alt="Node 18+" src="https://img.shields.io/badge/Node-18%2B-339933?logo=nodedotjs&logoColor=white" />
     <img alt="MCP stdio" src="https://img.shields.io/badge/MCP-stdio-111111" />
   </p>
 </div>
