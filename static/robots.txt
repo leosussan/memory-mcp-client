@@ -1,0 +1,3 @@
+# This app is often used for private/local data. Ask crawlers not to index any routes.
+User-agent: *
+Disallow: /
